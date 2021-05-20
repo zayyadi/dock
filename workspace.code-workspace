@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\dock"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\react-crud"
+		}
+	],
+	"settings": {}
+}
